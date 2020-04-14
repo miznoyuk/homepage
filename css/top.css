@@ -42,6 +42,7 @@ h3 {
 }
 
 #navbarMainContent {
+  font-family: "Roboto";
   width: 20vw;
   margin-right: 30vw;
   float: left;
