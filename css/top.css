@@ -86,7 +86,6 @@ h4 {
 .navbar-brand {
   font-family: "Roboto", "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
   font-size: 150%;
-  color: #f4fbfe;
   margin: 0 9vw 0 1vw;
   padding: 2vh 0;
 }
@@ -97,8 +96,6 @@ h4 {
   position: relative;
   display: inline-block;
   text-decoration: none;
-  color: #f4fbfe;
-  background-color: #165e83;
 }
 
 .nav-item::after {
