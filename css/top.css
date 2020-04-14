@@ -42,6 +42,10 @@ h3 {
   padding-top: 80px;
 }
 
+h4 {
+  text-align: center;
+}
+
 #navbarMainContent {
   font-family: "Roboto";
   width: 20vw;
