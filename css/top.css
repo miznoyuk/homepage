@@ -39,7 +39,7 @@ footer {
 h3 {
   text-align: center;
   line-height: 1.5;
-  padding-top: 80px;
+  padding-top: 10px;
   border-top: double 4px #165e83;
 }
 
@@ -177,6 +177,9 @@ h4 {
   background-position: center;
 }
 
+#head-blank {
+  height: 70px;
+}
 .video {
   position: relative;
   margin: auto;
