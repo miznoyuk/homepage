@@ -39,6 +39,7 @@ footer {
 h3 {
   text-align: center;
   line-height: 1.5;
+  margin-top: 60px;
 }
 
 #navbarMainContent {
@@ -111,26 +112,22 @@ h3 {
 }
 
 .box_description {
-  margin-top: 60px;
-  height: 740px;
+  height: 800px;
   text-align: center;
 }
 
 .box_works {
-  margin-top: 60px;
-  height: 340px;
+  height: 400px;
   text-align: center;
 }
 
 .box_link {
-  margin-top: 60px;
-  height: 740px;
+  height: 800px;
   text-align: center;
 }
 
 .box_contact {
-  margin-top: 60px;
-  height: 240px;
+  height: 300px;
   text-align: center;
 }
 
