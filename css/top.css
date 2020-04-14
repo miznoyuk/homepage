@@ -171,6 +171,7 @@ h4 {
   background-attachment: fixed;
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .video {
