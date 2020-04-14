@@ -52,17 +52,6 @@ h3 {
   float: right;
 }
 
-
-#main-bg {
-  height: 100%;
-  width: 100%;
-  margin: 0 auto;
-  background-image: url("../image/minasoko.png");
-  background-position: right bottom;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 #footer {
   font-family: "Roboto", "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
   text-align: center;
@@ -161,6 +150,7 @@ h3 {
 #yuk_icon {
   width: 40vw;
   max-width: 300px;
+  max_height: 750px;
   margin: 1vw 0;
 }
 
