@@ -53,13 +53,13 @@ h5 {
 
 #navbarMainContent {
   font-family: "Roboto";
-  width: 14vw;
-  margin-right: 25vw;
+  width: auto;
+  margin-right: 39vw;
   float: left;
 }
 
 #navbarSupportedContent {
-  width: 40vw;
+  width: 30vw;
   float: right;
 }
 
