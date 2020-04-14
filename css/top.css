@@ -18,11 +18,7 @@ header {
   height: 60px;
   margin: 0;
   position: fixed;
-}
-
-
-.overpanel {
-  position: relative;
+  z-index: 20;
 }
 
 main {
@@ -189,4 +185,5 @@ h5 {
 .video {
   position: relative;
   margin: auto;
+  z-index: 10;
 }
