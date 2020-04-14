@@ -21,9 +21,9 @@ header {
 }
 
 
-/* img {
-  width: 100%
-} */
+iframe {
+  opacity: 0.99;
+}
 
 main {
   margin: 0 auto 2vh auto;
