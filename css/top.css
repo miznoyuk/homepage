@@ -115,7 +115,7 @@ h4 {
   transform: scale(1, 1);
 }
 .box_head {
-  height: 1000px;
+  height: 850px;
 }
 
 .box_description {
@@ -166,7 +166,7 @@ h4 {
 }
 
 #main-bg {
-  height: auto;
+  height: 850px;
   width: 100%;
   background-image: url("https://raw.githubusercontent.com/miznoyuk/homepage/master/image/orange.png");
   background-attachment: fixed;
