@@ -1,5 +1,5 @@
 html {
-  width: 80vw;
+  width: 100vw;
   font-size:16px;
   margin: 0 auto;
   scroll-behavior: smooth;
@@ -25,6 +25,7 @@ header {
 } */
 
 main {
+  width: 80vw;
   margin: 0 auto 2vh auto;
   padding-top: 10px;
 }
@@ -47,8 +48,8 @@ h4 {
 
 #navbarMainContent {
   font-family: "Roboto";
-  width: 20%;
-  margin-right: 30%;
+  width: 15%;
+  margin-right: 35%;
   float: left;
 }
 
