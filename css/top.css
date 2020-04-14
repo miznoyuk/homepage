@@ -148,7 +148,7 @@ h3 {
 
 #yuk_icon {
   width: 40vw;
-/*   max-width: 300px; */
+  max-width: 300px;
   max-height: 750px;
   margin: 1vw 0;
 }
