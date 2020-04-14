@@ -172,7 +172,7 @@ h4 {
 }
 
 #main-bg {
-  height: 850px;
+  height: 88vh;
   width: auto;
   background-image: url("https://raw.githubusercontent.com/miznoyuk/homepage/master/image/orange_large.png");
   background-attachment: fixed;
