@@ -139,8 +139,7 @@ h3 {
   float: left;
   margin-left: 7%;
   margin-right: 3%;
-  min-height: 600px;
-  max-height: 800px;
+  height: 600px;
 }
 
 .column_right {
@@ -148,14 +147,13 @@ h3 {
   float: right;
   margin-left: 3%;
   margin-right: 7%;
-  min-height: 600px;
-  max-height: 800px;
+  height: 600px;
 }
 
 #yuk_icon {
   width: 40vw;
   max-width: 300px;
-  max-height: 750px;
+  max-height: 580px;
   margin: 1vw 0;
 }
 
