@@ -39,8 +39,7 @@ footer {
 h3 {
   text-align: center;
   line-height: 1.5;
-  padding-top: 10px;
-  border-top: double 4px #165e83;
+  padding-top: 80px;
 }
 
 h4 {
@@ -117,26 +116,36 @@ h4 {
 
 .box_head {
   height: 850px;
+  padding-bottom: 10px;
+  border-top: double 4px #165e83;
 }
 
 .box_description {
   height: 800px;
   text-align: center;
+  padding-bottom: 10px;
+  border-top: double 4px #165e83;
 }
 
 .box_works {
   height: 400px;
   text-align: center;
+  padding-bottom: 10px;
+  border-top: double 4px #165e83;
 }
 
 .box_link {
   height: 800px;
   text-align: center;
+  padding-bottom: 10px;
+  border-top: double 4px #165e83;
 }
 
 .box_contact {
   height: 300px;
   text-align: center;
+  padding-bottom: 10px;
+  border-top: double 4px #165e83;
 }
 
 .column_left {
@@ -177,9 +186,6 @@ h4 {
   background-position: center;
 }
 
-#header-blank {
-  height: 70px;
-}
 .video {
   position: relative;
   margin: auto;
