@@ -116,7 +116,6 @@ h4 {
 }
 .box_head {
   height: 1000px;
-  background-image: url("https://github.com/miznoyuk/homepage/blob/master/image/orange.png?raw=true");
 }
 
 .box_description {
@@ -164,6 +163,12 @@ h4 {
 #about_miznoyuk {
   text-align: left;
   margin-top: 50px;
+}
+
+#main-bg {
+  height: auto;
+  width: 100%;
+  background-image: url("https://github.com/miznoyuk/homepage/blob/master/image/orange.png?raw=true");
 }
 
 .video {
