@@ -40,6 +40,9 @@ footer {
 h3 {
   text-align: center;
   line-height: 1.5;
+  padding: 0 10px;
+  border: 0 4px;
+  border-color: #165e83;
 }
 
 #navbarMainContent {
