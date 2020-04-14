@@ -10,7 +10,7 @@ body {
   width: 100%;
   margin: 0 auto;
   font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
-  background-color: #fbfbff;
+  background-color: #f4fbfe;
 }
 
 header {
@@ -20,12 +20,12 @@ header {
 }
 
 
-img {
+/* img {
   width: 100%
-}
+} */
 
 main {
-  height: 70vh;
+  /* height: 70vh; */
   margin: 0 auto 2vh auto;
   padding-top: 10px;
 }
@@ -36,13 +36,18 @@ footer {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+  line-height: 1.5;
+}
+
 #navbarMainContent {
-  width: 20vw;
+  width: 50vw;
   float: left;
 }
 
 #navbarSupportedContent {
-  width: 80vw;
+  width: 50vw;
   float: right;
 }
 
@@ -68,7 +73,7 @@ footer {
   margin: 0 auto;
   padding: 0;
   align-items: start;
-  background-color: #fbfbff;
+  background-color: #f4fbfe;
 }
 
 .navbar navbar-fixed-top navbar-expand-lg navbar-light {
@@ -95,7 +100,7 @@ footer {
   position: relative;
   display: inline-block;
   text-decoration: none;
-  background-color: #fbfbff;
+  background-color: #f4fbfe;
 }
 
 .nav-item::after {
@@ -112,4 +117,58 @@ footer {
 }
 .nav-item:hover::after {
   transform: scale(1, 1);
+}
+
+.box_description {
+  height: 800px;
+  text-align: center;
+}
+
+.box_works {
+  height: 400px;
+  text-align: center;
+}
+
+.box_link {
+  height: 800px;
+  text-align: center;
+}
+
+.box_contact {
+  height: 300px;
+  text-align: center;
+}
+
+.column_left {
+  width: 40%;
+  float: left;
+  margin-left: 7%;
+  margin-right: 3%;
+  min-height: 600px;
+  max-height: 800px;
+}
+
+.column_right {
+  width: 40%;
+  float: right;
+  margin-left: 3%;
+  margin-right: 7%;
+  min-height: 600px;
+  max-height: 800px;
+}
+
+#yuk_icon {
+  width: 40vw;
+  max-width: 300px;
+  margin: 1vw 0;
+}
+
+#about_miznoyuk {
+  text-align: left;
+  margin-top: 50px;
+}
+
+.video {
+  position: relative;
+  margin: auto;
 }
