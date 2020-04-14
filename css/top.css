@@ -116,35 +116,35 @@ h4 {
 
 .box_head {
   height: 850px;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
   border-top: double 4px #165e83;
 }
 
 .box_description {
   height: 800px;
   text-align: center;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
   border-top: double 4px #165e83;
 }
 
 .box_works {
   height: 400px;
   text-align: center;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
   border-top: double 4px #165e83;
 }
 
 .box_link {
   height: 800px;
   text-align: center;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
   border-top: double 4px #165e83;
 }
 
 .box_contact {
   height: 300px;
   text-align: center;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
   border-top: double 4px #165e83;
 }
 
