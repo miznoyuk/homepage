@@ -171,6 +171,7 @@ h4 {
   background-image: url("https://raw.githubusercontent.com/miznoyuk/homepage/master/image/orange.png");
   background-attachment: fixed;
   background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .video {
