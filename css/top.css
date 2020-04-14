@@ -167,6 +167,8 @@ h4 {
 #main-bg {
   height: 850px;
   width: auto;
+  opacity: 0.95;
+  transition: all 0.8s;
   background-image: url("https://raw.githubusercontent.com/miznoyuk/homepage/master/image/orange.png");
   background-attachment: fixed;
   background-size: contain;
