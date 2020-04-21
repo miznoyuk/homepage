@@ -195,9 +195,10 @@ h5 {
   }
 
   #main-bg {
+    background-image: url("https://raw.githubusercontent.com/miznoyuk/homepage/master/image/orange_mobile.png");
     height: 0;
     width: 100%;
-    padding-top: 49.69%;
+    padding-top: 100%;
     background-attachment: scroll;
     background-size: contain;
     background-repeat: no-repeat;
@@ -205,11 +206,11 @@ h5 {
   }
 
   .box_head {
-    height: 25vh;
+    height: 320px;
   }
   
   .box_description {
-    height: 870px;
+    height: 850px;
   }
   
   .box_works {
@@ -264,5 +265,16 @@ h5 {
 
   #twitter_link {
     height: 650px;
+  }
+
+  .nav-item {
+    background-color: #165e83;
+    opacity: 0.8;
+    border-bottom: solid 1px #f4fbfe;
+    padding-bottom: -1px;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    color: #f4fbfe;
   }
 }
