@@ -47,10 +47,6 @@ h5 {
   border-left: solid 3px #ef454a;
 }
 
-h6 {
-  texi-align: center;
-}
-
 #navbarMainContent {
   font-family: "Roboto";
   width: auto;
@@ -120,7 +116,7 @@ h6 {
 }
 
 .box_head {
-  height: 850px;
+  height: 880px;
   border-bottom: double 4px #165e83;
 }
 
@@ -131,13 +127,13 @@ h6 {
 }
 
 .box_works {
-  height: 500px;
+  height: 480px;
   text-align: center;
   border-bottom: double 4px #165e83;
 }
 
 .box_link {
-  height: 800px;
+  height: 480px;
   text-align: center;
   border-bottom: double 4px #165e83;
 }
@@ -153,7 +149,7 @@ h6 {
   float: left;
   margin-left: 7%;
   margin-right: 3%;
-  height: 600px;
+  height: 300px;
 }
 
 .column_right {
@@ -161,6 +157,14 @@ h6 {
   float: right;
   margin-left: 3%;
   margin-right: 7%;
+  height: 300px;
+}
+
+#image_miznoyuk.column_left {
+  height: 600px;
+}
+
+#about_miznoyuk.column_right {
   height: 600px;
 }
 
